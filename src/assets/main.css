@@ -1,0 +1,13 @@
+table th,table td{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+h2{
+    text-align: center
+}
+h4{
+    text-align: left
+}
+button{
+    outline: none
+}
